@@ -1,4 +1,5 @@
 language: java
+install: gradle
 script:
-    - ./gradle build
-    - ./gradle test
+    - gradle build
+    - gradle test
