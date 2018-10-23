@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-10-23T06:59:32" hostname="KaleanThink-PC" time="0.087">
+  <properties/>
+  <testcase name="testQuickUnsortedList" classname="test.java.AlgoTest" time="0.036"/>
+  <testcase name="testSelectionUnsortedList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testInsertionUnsortedList" classname="test.java.AlgoTest" time="0.005"/>
+  <testcase name="testSelectionEmptyList" classname="test.java.AlgoTest" time="0.008"/>
+  <testcase name="testBubblePartialSortList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testInsertPartialSortList" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testHeapEmptyList" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testMergeEmptyList" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="testHeapPartialSortList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testQuickPartialSortList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testBubbleEmptyList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testInsertEmptyList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testHeapUnsortedList" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testMergeUnsortedList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testBubbleUnsortedList" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testMergePartialSortList" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testQuickEmptyList" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testSelectionPartialSortList" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
